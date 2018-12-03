@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="688c83b0-bcc6-455c-903e-5bb0182152bd" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/AdventOfCode/README.md" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/AoC2k18/com/company/Main.class" afterPath="$PROJECT_DIR$/out/production/AoC2k18/com/company/Main.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/company/Main.java" afterPath="$PROJECT_DIR$/src/com/company/Main.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,14 +21,26 @@
       <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="48" lean-forward="false" selection-start-line="12" selection-start-column="48" selection-end-line="12" selection-end-column="48" />
+            <state relative-caret-position="262">
+              <caret line="110" column="56" lean-forward="true" selection-start-line="110" selection-start-column="56" selection-end-line="110" selection-end-column="56" />
               <folding>
                 <element signature="method#dayOnePart1#0;class#Main#0" expanded="false" />
                 <element signature="method#dayOnePart2#0;class#Main#0" expanded="false" />
                 <element signature="method#dayTwoPart1#0;class#Main#0" expanded="false" />
                 <element signature="method#dayTwoPart2#0;class#Main#0" expanded="false" />
-                <element signature="method#removeDifference#0;class#Main#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Helper.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/company/Helper.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="30" column="0" lean-forward="false" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+              <folding>
+                <element signature="method#removeDifference#0;class#Helper#0" expanded="false" />
+                <element signature="method#indexOf#0;class#Helper#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -37,18 +52,6 @@
             <state relative-caret-position="465">
               <caret line="31" column="20" lean-forward="false" selection-start-line="31" selection-start-column="20" selection-end-line="31" selection-end-column="20" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FileHandler.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/company/FileHandler.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="15" column="85" lean-forward="false" selection-start-line="15" selection-start-column="85" selection-end-line="15" selection-end-column="85" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -69,7 +72,7 @@
     </findStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/AdventOfCode" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
@@ -89,6 +92,8 @@
         <option value="$PROJECT_DIR$/src/com/company/Inputs/1.txt" />
         <option value="$PROJECT_DIR$/src/com/company/Inputs/2.txt" />
         <option value="$PROJECT_DIR$/src/com/company/Inputs/3.txt" />
+        <option value="$PROJECT_DIR$/src/com/company/Inputs/Helper.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Helper.java" />
         <option value="$PROJECT_DIR$/src/com/company/Main.java" />
       </list>
     </option>
@@ -182,6 +187,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -609,15 +615,16 @@
       <workItem from="1543583290421" duration="328000" />
       <workItem from="1543583867074" duration="17028000" />
       <workItem from="1543826100804" duration="784000" />
-      <workItem from="1543826978460" duration="1865000" />
+      <workItem from="1543826978460" duration="2360000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21477000" />
+    <option name="totallyTimeSpent" value="21972000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1382" height="784" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -634,7 +641,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26492536" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26492536" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -656,6 +663,11 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/AdventOfCode" />
+    </ignored-roots>
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <option name="time" value="5" />
@@ -676,7 +688,6 @@
             <element signature="method#dayOnePart2#0;class#Main#0" expanded="false" />
             <element signature="method#dayTwoPart1#0;class#Main#0" expanded="false" />
             <element signature="method#dayTwoPart2#0;class#Main#0" expanded="false" />
-            <element signature="method#removeDifference#0;class#Main#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -698,7 +709,6 @@
             <element signature="method#dayOnePart2#0;class#Main#0" expanded="false" />
             <element signature="method#dayTwoPart1#0;class#Main#0" expanded="false" />
             <element signature="method#dayTwoPart2#0;class#Main#0" expanded="false" />
-            <element signature="method#removeDifference#0;class#Main#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -815,7 +825,6 @@
             <element signature="method#dayOnePart2#0;class#Main#0" expanded="false" />
             <element signature="method#dayTwoPart1#0;class#Main#0" expanded="false" />
             <element signature="method#dayTwoPart2#0;class#Main#0" expanded="false" />
-            <element signature="method#removeDifference#0;class#Main#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -837,7 +846,6 @@
             <element signature="method#dayOnePart2#0;class#Main#0" expanded="false" />
             <element signature="method#dayTwoPart1#0;class#Main#0" expanded="false" />
             <element signature="method#dayTwoPart2#0;class#Main#0" expanded="false" />
-            <element signature="method#removeDifference#0;class#Main#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -935,6 +943,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/FileHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="85" lean-forward="false" selection-start-line="15" selection-start-column="85" selection-end-line="15" selection-end-column="85" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/Inputs/3.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="465">
@@ -945,24 +963,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="48" lean-forward="false" selection-start-line="12" selection-start-column="48" selection-end-line="12" selection-end-column="48" />
+        <state relative-caret-position="262">
+          <caret line="110" column="56" lean-forward="true" selection-start-line="110" selection-start-column="56" selection-end-line="110" selection-end-column="56" />
           <folding>
             <element signature="method#dayOnePart1#0;class#Main#0" expanded="false" />
             <element signature="method#dayOnePart2#0;class#Main#0" expanded="false" />
             <element signature="method#dayTwoPart1#0;class#Main#0" expanded="false" />
             <element signature="method#dayTwoPart2#0;class#Main#0" expanded="false" />
-            <element signature="method#removeDifference#0;class#Main#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/FileHandler.java">
+    <entry file="file://$PROJECT_DIR$/src/com/company/Helper.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="15" column="85" lean-forward="false" selection-start-line="15" selection-start-column="85" selection-end-line="15" selection-end-column="85" />
+        <state relative-caret-position="135">
+          <caret line="30" column="0" lean-forward="false" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="method#removeDifference#0;class#Helper#0" expanded="false" />
+            <element signature="method#indexOf#0;class#Helper#0" expanded="false" />
           </folding>
         </state>
       </provider>
