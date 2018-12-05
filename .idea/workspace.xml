@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="688c83b0-bcc6-455c-903e-5bb0182152bd" name="Default" comment="" />
+    <list default="true" id="688c83b0-bcc6-455c-903e-5bb0182152bd" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Main.java" afterPath="$PROJECT_DIR$/src/Main.java" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -16,8 +18,8 @@
       <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="254" column="1" lean-forward="true" selection-start-line="254" selection-start-column="1" selection-end-line="254" selection-end-column="1" />
+            <state relative-caret-position="192">
+              <caret line="13" column="10" lean-forward="false" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="10" />
               <folding>
                 <element signature="method#dayOnePart1#0;class#Main#0" expanded="false" />
                 <element signature="method#dayOnePart2#0;class#Main#0" expanded="false" />
@@ -25,6 +27,8 @@
                 <element signature="method#dayTwoPart2#0;class#Main#0" expanded="false" />
                 <element signature="method#dayThree#0;class#Main#0" expanded="false" />
                 <element signature="method#dayFour#0;class#Main#0" expanded="false" />
+                <element signature="method#dayFivePart1#0;class#Main#0" expanded="false" />
+                <element signature="method#dayFivePart2#0;class#Main#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -34,7 +38,7 @@
         <entry file="file://$PROJECT_DIR$/src/Inputs/5.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="17653" lean-forward="true" selection-start-line="0" selection-start-column="17653" selection-end-line="0" selection-end-column="17653" />
+              <caret line="0" column="17653" lean-forward="false" selection-start-line="0" selection-start-column="17653" selection-end-line="0" selection-end-column="17653" />
               <folding />
             </state>
           </provider>
@@ -43,8 +47,8 @@
       <file leaf-file-name="Helper.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Helper.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="167">
-              <caret line="106" column="18" lean-forward="false" selection-start-line="106" selection-start-column="18" selection-end-line="106" selection-end-column="18" />
+            <state relative-caret-position="152">
+              <caret line="105" column="65" lean-forward="false" selection-start-line="105" selection-start-column="65" selection-end-line="105" selection-end-column="65" />
               <folding>
                 <element signature="method#getDimensions#0;class#Helper#0" expanded="false" />
                 <element signature="method#indexOf#0;class#Helper#0" expanded="false" />
@@ -630,12 +634,12 @@
       <workItem from="1543583290421" duration="328000" />
       <workItem from="1543583867074" duration="17028000" />
       <workItem from="1543826100804" duration="784000" />
-      <workItem from="1543826978460" duration="18646000" />
+      <workItem from="1543826978460" duration="22376000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38258000" />
+    <option name="totallyTimeSpent" value="41988000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1382" height="784" extended-state="0" />
@@ -705,6 +709,8 @@
             <element signature="method#dayTwoPart2#0;class#Main#0" expanded="false" />
             <element signature="method#dayThree#0;class#Main#0" expanded="false" />
             <element signature="method#dayFour#0;class#Main#0" expanded="false" />
+            <element signature="method#dayFivePart1#0;class#Main#0" expanded="false" />
+            <element signature="method#dayFivePart2#0;class#Main#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -728,6 +734,8 @@
             <element signature="method#dayTwoPart2#0;class#Main#0" expanded="false" />
             <element signature="method#dayThree#0;class#Main#0" expanded="false" />
             <element signature="method#dayFour#0;class#Main#0" expanded="false" />
+            <element signature="method#dayFivePart1#0;class#Main#0" expanded="false" />
+            <element signature="method#dayFivePart2#0;class#Main#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -846,6 +854,8 @@
             <element signature="method#dayTwoPart2#0;class#Main#0" expanded="false" />
             <element signature="method#dayThree#0;class#Main#0" expanded="false" />
             <element signature="method#dayFour#0;class#Main#0" expanded="false" />
+            <element signature="method#dayFivePart1#0;class#Main#0" expanded="false" />
+            <element signature="method#dayFivePart2#0;class#Main#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -869,6 +879,8 @@
             <element signature="method#dayTwoPart2#0;class#Main#0" expanded="false" />
             <element signature="method#dayThree#0;class#Main#0" expanded="false" />
             <element signature="method#dayFour#0;class#Main#0" expanded="false" />
+            <element signature="method#dayFivePart1#0;class#Main#0" expanded="false" />
+            <element signature="method#dayFivePart2#0;class#Main#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1019,10 +1031,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Inputs/5.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="17653" lean-forward="false" selection-start-line="0" selection-start-column="17653" selection-end-line="0" selection-end-column="17653" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Helper.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="167">
-          <caret line="106" column="18" lean-forward="false" selection-start-line="106" selection-start-column="18" selection-end-line="106" selection-end-column="18" />
+        <state relative-caret-position="152">
+          <caret line="105" column="65" lean-forward="false" selection-start-line="105" selection-start-column="65" selection-end-line="105" selection-end-column="65" />
           <folding>
             <element signature="method#getDimensions#0;class#Helper#0" expanded="false" />
             <element signature="method#indexOf#0;class#Helper#0" expanded="false" />
@@ -1031,18 +1051,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Inputs/5.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="17653" lean-forward="true" selection-start-line="0" selection-start-column="17653" selection-end-line="0" selection-end-column="17653" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="254" column="1" lean-forward="true" selection-start-line="254" selection-start-column="1" selection-end-line="254" selection-end-column="1" />
+        <state relative-caret-position="192">
+          <caret line="13" column="10" lean-forward="false" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="10" />
           <folding>
             <element signature="method#dayOnePart1#0;class#Main#0" expanded="false" />
             <element signature="method#dayOnePart2#0;class#Main#0" expanded="false" />
@@ -1050,6 +1062,8 @@
             <element signature="method#dayTwoPart2#0;class#Main#0" expanded="false" />
             <element signature="method#dayThree#0;class#Main#0" expanded="false" />
             <element signature="method#dayFour#0;class#Main#0" expanded="false" />
+            <element signature="method#dayFivePart1#0;class#Main#0" expanded="false" />
+            <element signature="method#dayFivePart2#0;class#Main#0" expanded="false" />
           </folding>
         </state>
       </provider>

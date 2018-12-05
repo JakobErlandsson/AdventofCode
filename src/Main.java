@@ -10,9 +10,8 @@ public class Main {
         //dayTwoPart2(FileHandler.readFile("2.txt"));
         //dayThree(FileHandler.readFile("3.txt"));
         //dayFour(FileHandler.readFile("4.txt"));
-        System.out.println("Part one: " + dayFivePart1(FileHandler.readFile("5.txt").toCharArray()));
-        dayFivePart2(FileHandler.readFile("5.txt"));
-        //System.out.println(Arrays.toString(Helper.removeLetter(FileHandler.readFile("5.txt").toCharArray(), 'a', 'A')));
+        //System.out.println("Part one: " + dayFivePart1(FileHandler.readFile("5.txt").toCharArray()));
+        //dayFivePart2(FileHandler.readFile("5.txt"));
     }
 
 
@@ -30,11 +29,11 @@ public class Main {
             if (arr[0] == '-') tmp *= -1;
             result += tmp;
         }
-        System.out.println("First: " + result);
+        System.out.println("Day one part one: " + result);
     }
 
     static void dayOnePart2(String input) {
-        List<Integer> checked = new ArrayList<>();
+        TreeSet<Integer> checked = new TreeSet<>();
         int result = 0;
         checked.add(result);
         String[] s = input.split("\n");
@@ -53,8 +52,7 @@ public class Main {
                 result += tmp;
 
                 if (checked.contains(result)) {
-                    System.out.println("Result: " + result);
-                    System.out.println("Loops: " + count);
+                    System.out.println("Day one part two: " + result + " after " + count + " loops.");
                     return;
                 }
                 checked.add(result);
@@ -138,10 +136,8 @@ public class Main {
         String[] s = input.split("\n");
         int activeGuard = 0;
         Arrays.sort(s);
-        //System.out.println(Arrays.toString(s));
         for (String each : s) {
             char[] a = each.toCharArray();
-            //System.out.println(Arrays.toString(a));
             int minute = Character.getNumericValue(a[16]) + 10 * Character.getNumericValue(a[15]);
             if (a[19] == 'G') {
                 activeGuard = Helper.getGuardID(a);
@@ -214,6 +210,7 @@ public class Main {
 
     static int dayFivePart1(char[] input) {
         int diff = 1;
+        int loops = 0;
         while(diff > 0) {
             for (int i = 0; i < input.length - 1; i++) {
                 if (Helper.match(input[i], input[i + 1])) {
@@ -235,21 +232,26 @@ public class Main {
             }
             diff = input.length - tmp.length;
             input = tmp;
+            loops++;
         }
+        //System.out.println("Loops: " + loops);
         return input.length;
     }
 
     static void dayFivePart2(String input){
         char[] a = input.toCharArray();
         char[] alphabet = "abcdefghijklmnopqrstuvwxyz".toCharArray();
-        int shortest = 12000;
+        int shortest = a.length;
+        char bestLetter = '0';
         for(char c : alphabet){
             char[] tmp = Helper.removeLetter(a, c);
+            System.out.print(c + ": ");
             int length = dayFivePart1(tmp);
             if(length <= shortest){
                 shortest = length;
+                bestLetter = c;
             }
         }
-        System.out.println("Part two: " + shortest);
+        System.out.println("Part two: " + shortest + " by removing " + bestLetter);
     }
 }
