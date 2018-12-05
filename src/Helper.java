@@ -1,5 +1,3 @@
-package com.company;
-
 /**
  * Created by JakobErlandsson on 2018-12-03.
  */
@@ -81,6 +79,7 @@ public class Helper {
         return -1;
     }
 
+    // Used for problem 3.2
     static boolean isUnique(int[] values, int[][] m){
         for(int i = values[0]; i < values[0] + values[2]; i++){
             for(int j = values[1]; j < values[1] + values[3]; j++){
@@ -88,5 +87,47 @@ public class Helper {
             }
         }
         return true;
+    }
+
+    static int getGuardID(char[] arr){
+        int ID = 0;
+        int point = 0;
+        for(int i = indexOf(arr, 'b') - 2; arr[i] != '#'; i--){
+            ID += Character.getNumericValue(arr[i]) * Math.pow(10, point);
+            point++;
+        }
+        return ID;
+    }
+
+    // Used in problem 5.1, returns true if c1 and c2 are equal in letter
+    // but differs in case, else returns false
+    static boolean match(char c1, char c2){
+        char[] arr1 = "abcdefghijklmnopqrstuvwxyz".toCharArray();
+        char[] arr2 = "ABCDEFGHIJKLMNOPQRSTUVWXYZ".toCharArray();
+        if (Character.isUpperCase(c2)){
+            return indexOf(arr2, c2) == indexOf(arr1, c1);
+        }
+        else{
+            return indexOf(arr2, c1) == indexOf(arr1, c2);
+        }
+    }
+
+    // Used in problem 5.2, returns an array without both upper and lower case
+    // of character lower
+    static char[] removeLetter(char[] arr, char lower){
+        char upper = Character.toUpperCase(lower);
+        int count = 0;
+        for(char c : arr){
+            if(c == lower || c == upper) count++;
+        }
+        char[] tmp = new char[arr.length - count];
+        int i = 0;
+        for(char c : arr){
+            if(c != lower && c != upper){
+                tmp[i] = c;
+                i++;
+            }
+        }
+        return tmp;
     }
 }

@@ -1,5 +1,3 @@
-package com.company;
-
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
@@ -11,7 +9,7 @@ public class FileHandler {
 
     public static String readFile(String filePath)
     {
-        String path = "/Users/JakobErlandsson/Desktop/AoC2k18/src/com/company/Inputs/";
+        String path = "/Users/JakobErlandsson/Desktop/AoC2k18/src/Inputs/";
         StringBuilder contentBuilder = new StringBuilder();
         try (BufferedReader br = new BufferedReader(new FileReader(path + filePath)))
         {
