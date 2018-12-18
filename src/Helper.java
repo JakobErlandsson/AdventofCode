@@ -1,3 +1,7 @@
+import java.util.ArrayList;
+import java.util.Iterator;
+import java.util.List;
+
 /**
  * Created by JakobErlandsson on 2018-12-03.
  */
@@ -130,4 +134,14 @@ public class Helper {
         }
         return tmp;
     }
+
+    static boolean isDone(List<Character> l, char[] arr, boolean[] visited){
+        Iterator it = l.iterator();
+        while(it.hasNext()){
+            if(!visited[indexOf(arr, (char)it.next())]) return false;
+        }
+        return true;
+    }
+
+
 }
