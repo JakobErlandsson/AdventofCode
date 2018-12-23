@@ -2,33 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="688c83b0-bcc6-455c-903e-5bb0182152bd" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/DayEigth.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/DayEleven.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/DayFive.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/DayFour.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/DayNine.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/DayOne.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/DaySeven.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/DaySix.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/DayTen.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/DayThirteen.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/DayThree.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/DayTwelve.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/DayTwo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Inputs/10.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Inputs/12.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Inputs/13.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Inputs/13test.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Inputs/6.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Inputs/7.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Inputs/8.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Inputs/9.txt" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/AoC2k18/Guard.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Guard.java" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/AoC2k18/Helper.class" afterPath="$PROJECT_DIR$/out/production/AoC2k18/Helper.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/DayEighteen.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/DayFifteen.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/DayNineteen.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/DaySeventeen.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/DaySixteen.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/DayTwenty.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Inputs/15.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Inputs/16.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Inputs/17.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Inputs/18.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Inputs/18test.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Inputs/19.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Inputs/19test.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Inputs/20.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/AoC2k18/Main.class" afterPath="$PROJECT_DIR$/out/production/AoC2k18/Main.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Helper.java" afterPath="$PROJECT_DIR$/src/Helper.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Main.java" afterPath="$PROJECT_DIR$/src/Main.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -45,18 +34,18 @@
       <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="287">
-              <caret line="20" column="8" lean-forward="false" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
+            <state relative-caret-position="390">
+              <caret line="26" column="24" lean-forward="false" selection-start-line="26" selection-start-column="24" selection-end-line="26" selection-end-column="24" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DayThirteen.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/DayThirteen.java">
+      <file leaf-file-name="DayTwenty.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/DayTwenty.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="165">
+              <caret line="11" column="51" lean-forward="false" selection-start-line="11" selection-start-column="51" selection-end-line="11" selection-end-column="51" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -64,41 +53,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DayFourteen.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/DayFourteen.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="156">
-              <caret line="12" column="22" lean-forward="false" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#151#152#0" expanded="true" />
-                <element signature="e#180#181#0" expanded="true" />
-                <element signature="method#getLast#0;class#DayFourteen#0" expanded="false" />
-                <element signature="class#Elf#0;class#DayFourteen#0" expanded="false" />
-                <element signature="e#2191#2192#0" expanded="true" />
-                <element signature="e#2255#2256#0" expanded="true" />
-                <element signature="e#2291#2292#0" expanded="true" />
-                <element signature="e#2344#2345#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="13test.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Inputs/13test.txt">
+      <file leaf-file-name="20.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Inputs/20.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="4" lean-forward="false" selection-start-line="0" selection-start-column="4" selection-end-line="0" selection-end-column="4" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="13.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Inputs/13.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="645">
-              <caret line="43" column="110" lean-forward="false" selection-start-line="43" selection-start-column="110" selection-end-line="43" selection-end-column="110" />
+              <caret line="0" column="14125" lean-forward="false" selection-start-line="0" selection-start-column="14125" selection-end-line="0" selection-end-column="14125" />
               <folding />
             </state>
           </provider>
@@ -115,12 +74,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>574</find>
-      <find>83067</find>
-      <find>guardNumber</find>
-      <find>57] f</find>
-      <find>03] w</find>
-      <find>3541</find>
       <find>333</find>
       <find>z</find>
       <find>I</find>
@@ -133,7 +86,6 @@
       <find>n</find>
       <find>X</find>
       <find>Z</find>
-      <find>add</find>
       <find>previous</find>
       <find>current</find>
       <find>10797</find>
@@ -143,6 +95,15 @@
       <find>x</find>
       <find>y1</find>
       <find>directions</find>
+      <find>get</find>
+      <find />
+      <find>registers,</find>
+      <find>y=0</find>
+      <find>y=21</find>
+      <find>y=1757</find>
+      <find>|</find>
+      <find>add</find>
+      <find>r5</find>
     </findStrings>
     <replaceStrings>
       <replace>activeGuard</replace>
@@ -152,6 +113,8 @@
       <replace>lowest</replace>
       <replace>i</replace>
       <replace>y</replace>
+      <replace>#</replace>
+      <replace>put</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -165,18 +128,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/TextFiles/1.1" />
-        <option value="$PROJECT_DIR$/src/com/company/1.1.txt" />
-        <option value="$PROJECT_DIR$/src/com/company/Solutions.java" />
-        <option value="$PROJECT_DIR$/src/com/company/DayOne.java" />
-        <option value="$PROJECT_DIR$/src/com/company/FileHandler.java" />
-        <option value="$PROJECT_DIR$/src/com/company/Inputs/1.1.txt" />
-        <option value="$PROJECT_DIR$/src/com/company/Inputs/1" />
-        <option value="$PROJECT_DIR$/src/com/company/Inputs/1.txt" />
-        <option value="$PROJECT_DIR$/src/com/company/Inputs/2.txt" />
-        <option value="$PROJECT_DIR$/src/com/company/Inputs/3.txt" />
-        <option value="$PROJECT_DIR$/src/com/company/Inputs/Helper.java" />
-        <option value="$PROJECT_DIR$/src/com/company/Helper.java" />
         <option value="$PROJECT_DIR$/src/com/company/Main.java" />
         <option value="$PROJECT_DIR$/src/FileHandler.java" />
         <option value="$PROJECT_DIR$/src/Inputs/4.txt" />
@@ -212,8 +163,22 @@
         <option value="$PROJECT_DIR$/src/Inputs/13.txt" />
         <option value="$PROJECT_DIR$/src/Inputs/13test.txt" />
         <option value="$PROJECT_DIR$/src/DayThirteen.java" />
-        <option value="$PROJECT_DIR$/src/Main.java" />
         <option value="$PROJECT_DIR$/src/DayFourteen.java" />
+        <option value="$PROJECT_DIR$/src/Inputs/14.txt" />
+        <option value="$PROJECT_DIR$/src/DayFifteen.java" />
+        <option value="$PROJECT_DIR$/src/Inputs/16.txt" />
+        <option value="$PROJECT_DIR$/src/Inputs/17.txt" />
+        <option value="$PROJECT_DIR$/src/DaySeventeen.java" />
+        <option value="$PROJECT_DIR$/src/Inputs/18.txt" />
+        <option value="$PROJECT_DIR$/src/Inputs/18test.txt" />
+        <option value="$PROJECT_DIR$/src/DayEighteen.java" />
+        <option value="$PROJECT_DIR$/src/DaySixteen.java" />
+        <option value="$PROJECT_DIR$/src/Inputs/19.txt" />
+        <option value="$PROJECT_DIR$/src/Inputs/19test.txt" />
+        <option value="$PROJECT_DIR$/src/DayNineteen.java" />
+        <option value="$PROJECT_DIR$/src/Inputs/20.txt" />
+        <option value="$PROJECT_DIR$/src/Main.java" />
+        <option value="$PROJECT_DIR$/src/DayTwenty.java" />
       </list>
     </option>
   </component>
@@ -727,12 +692,12 @@
       <workItem from="1543583867074" duration="17028000" />
       <workItem from="1543826100804" duration="784000" />
       <workItem from="1543826978460" duration="123394000" />
-      <workItem from="1545146767661" duration="4465000" />
+      <workItem from="1545146767661" duration="40083000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="147471000" />
+    <option name="totallyTimeSpent" value="183089000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -756,7 +721,7 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32658958" sideWeight="0.50298506" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32658958" sideWeight="0.49701494" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23410405" sideWeight="0.49701494" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32658958" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -764,6 +729,7 @@
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26791045" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32658958" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -775,7 +741,6 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32658958" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -830,7 +795,7 @@
           <option name="timeStamp" value="99" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="144" />
+      <option name="time" value="159" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -839,103 +804,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home/src.zip!/java/util/ArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1200">
-          <caret line="105" column="13" lean-forward="false" selection-start-line="105" selection-start-column="13" selection-end-line="105" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AdventOfCode/.gitignore" />
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AoC2k18.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Inputs/Coord.java" />
-    <entry file="file://$PROJECT_DIR$/src/Letter.java" />
-    <entry file="file://$PROJECT_DIR$/src/Worker.java" />
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home/jre/lib/rt.jar!/apple/laf/JRSUIUtils.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="969">
-          <caret line="102" column="24" lean-forward="false" selection-start-line="102" selection-start-column="24" selection-end-line="102" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home/src.zip!/java/util/TreeSet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2038">
-          <caret line="91" column="13" lean-forward="false" selection-start-line="91" selection-start-column="13" selection-end-line="91" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ChristmasTree.java" />
-    <entry file="file://$PROJECT_DIR$/src/FileHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="11" column="22" lean-forward="false" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="74" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home/src.zip!/java/util/LinkedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2572">
-          <caret line="289" column="34" lean-forward="false" selection-start-line="289" selection-start-column="31" selection-end-line="289" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home/src.zip!/java/util/List.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="584" column="9" lean-forward="false" selection-start-line="584" selection-start-column="9" selection-end-line="584" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home/src.zip!/java/util/concurrent/ConcurrentLinkedDeque.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="672">
-          <caret line="91" column="13" lean-forward="false" selection-start-line="91" selection-start-column="13" selection-end-line="91" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home/src.zip!/java/util/ArrayDeque.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-9519">
-          <caret line="84" column="13" lean-forward="false" selection-start-line="84" selection-start-column="13" selection-end-line="84" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Inputs/9.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="39" lean-forward="false" selection-start-line="0" selection-start-column="34" selection-end-line="0" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home/src.zip!/java/awt/Point.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="37" column="13" lean-forward="false" selection-start-line="37" selection-start-column="13" selection-end-line="37" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Inputs/10.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3330">
@@ -1019,7 +887,7 @@
         <state relative-caret-position="150">
           <caret line="10" column="8" lean-forward="false" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
             <element signature="method#dayTwoPart1#0;class#DayTwo#0" expanded="false" />
             <element signature="method#dayTwoPart2#0;class#DayTwo#0" expanded="false" />
           </folding>
@@ -1054,7 +922,7 @@
         <state relative-caret-position="150">
           <caret line="73" column="4" lean-forward="false" selection-start-line="73" selection-start-column="4" selection-end-line="73" selection-end-column="4" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
             <element signature="method#dayTen#0;class#DayTen#0" expanded="false" />
             <element signature="method#getHeight#0;class#DayTen#0" expanded="false" />
             <element signature="method#getWidth#0;class#DayTen#0" expanded="false" />
@@ -1079,7 +947,7 @@
         <state relative-caret-position="285">
           <caret line="124" column="5" lean-forward="false" selection-start-line="124" selection-start-column="5" selection-end-line="124" selection-end-column="5" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
             <element signature="method#dayTwelve#0;class#DayTwelve#0" expanded="false" />
             <element signature="method#dayTwelvePartTwo#0;class#DayTwelve#0" expanded="false" />
             <element signature="method#getHighestKey#0;class#DayTwelve#0" expanded="false" />
@@ -1096,7 +964,7 @@
         <state relative-caret-position="450">
           <caret line="30" column="51" lean-forward="false" selection-start-line="30" selection-start-column="51" selection-end-line="30" selection-end-column="51" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1146,7 +1014,7 @@
         <state relative-caret-position="1395">
           <caret line="93" column="17" lean-forward="false" selection-start-line="93" selection-start-column="17" selection-end-line="93" selection-end-column="17" />
           <folding>
-            <element signature="e#1679#1685#0" expanded="true" />
+            <element signature="e#1679#1685#0" expanded="false" />
             <element signature="method#workerAvailable#0;class#DaySeven#0" expanded="false" />
             <element signature="method#getWorker#0;class#DaySeven#0" expanded="false" />
             <element signature="method#getFirstAvailable#0;class#DaySeven#0" expanded="false" />
@@ -1185,38 +1053,205 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/DayFourteen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="18" column="31" lean-forward="true" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#151#152#0" expanded="false" />
+            <element signature="e#180#181#0" expanded="false" />
+            <element signature="method#getLast#0;class#DayFourteen#0" expanded="false" />
+            <element signature="class#Elf#0;class#DayFourteen#0" expanded="false" />
+            <element signature="e#2191#2192#0" expanded="false" />
+            <element signature="e#2255#2256#0" expanded="false" />
+            <element signature="e#2291#2292#0" expanded="false" />
+            <element signature="e#2344#2345#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/DayThirteen.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home/src.zip!/java/util/HashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="553" column="16" lean-forward="false" selection-start-line="553" selection-start-column="13" selection-end-line="553" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home/src.zip!/java/util/function/Function.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="40" column="17" lean-forward="false" selection-start-line="40" selection-start-column="17" selection-end-line="40" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DayFifteen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-36">
+          <caret line="33" column="0" lean-forward="false" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#260#261#0" expanded="false" />
+            <element signature="e#288#289#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Inputs/16.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="53">
+          <caret line="3186" column="4" lean-forward="false" selection-start-line="3186" selection-start-column="4" selection-end-line="3186" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Inputs/15.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="32" lean-forward="false" selection-start-line="0" selection-start-column="32" selection-end-line="0" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Inputs/17.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="6" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DaySeventeen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="387">
+          <caret line="42" column="37" lean-forward="false" selection-start-line="42" selection-start-column="37" selection-end-line="42" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="method#getFirst#0;class#DaySeventeen#0" expanded="false" />
+            <element signature="method#low#0;class#DaySeventeen#0" expanded="false" />
+            <element signature="method#high#0;class#DaySeventeen#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Inputs/18.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="49" column="50" lean-forward="false" selection-start-line="49" selection-start-column="50" selection-end-line="49" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Inputs/18test.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="10" lean-forward="false" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FileHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DaySixteen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="810">
+          <caret line="59" column="4" lean-forward="false" selection-start-line="59" selection-start-column="4" selection-end-line="59" selection-end-column="4" />
+          <folding>
             <element signature="imports" expanded="true" />
+            <element signature="method#setRegister#0;class#DaySixteen#0" expanded="false" />
+            <element signature="method#matching#0;class#DaySixteen#0" expanded="false" />
+            <element signature="method#toIntArray#0;class#DaySixteen#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DayEighteen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-10">
+          <caret line="21" column="30" lean-forward="false" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
+          <folding>
+            <element signature="e#99#100#0" expanded="true" />
+            <element signature="e#128#129#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Inputs/19test.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="10" lean-forward="false" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Inputs/19.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="26" column="10" lean-forward="true" selection-start-line="26" selection-start-column="10" selection-end-line="26" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DayNineteen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="39" column="17" lean-forward="false" selection-start-line="39" selection-start-column="17" selection-end-line="39" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#444#445#0" expanded="true" />
+            <element signature="e#473#474#0" expanded="true" />
+            <element signature="e#2709#2710#0" expanded="true" />
+            <element signature="e#2756#2757#0" expanded="true" />
+            <element signature="e#2775#2776#0" expanded="true" />
+            <element signature="e#2833#2834#0" expanded="true" />
+            <element signature="e#3266#3267#0" expanded="true" />
+            <element signature="e#3298#3299#0" expanded="true" />
+            <element signature="e#3465#3466#0" expanded="true" />
+            <element signature="e#3531#3532#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="287">
-          <caret line="20" column="8" lean-forward="false" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
+        <state relative-caret-position="390">
+          <caret line="26" column="24" lean-forward="false" selection-start-line="26" selection-start-column="24" selection-end-line="26" selection-end-column="24" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/DayFourteen.java">
+    <entry file="file://$PROJECT_DIR$/src/Inputs/20.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="12" column="22" lean-forward="false" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
+        <state relative-caret-position="0">
+          <caret line="0" column="14125" lean-forward="false" selection-start-line="0" selection-start-column="14125" selection-end-line="0" selection-end-column="14125" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DayTwenty.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="51" lean-forward="false" selection-start-line="11" selection-start-column="51" selection-end-line="11" selection-end-column="51" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#151#152#0" expanded="true" />
-            <element signature="e#180#181#0" expanded="true" />
-            <element signature="method#getLast#0;class#DayFourteen#0" expanded="false" />
-            <element signature="class#Elf#0;class#DayFourteen#0" expanded="false" />
-            <element signature="e#2191#2192#0" expanded="true" />
-            <element signature="e#2255#2256#0" expanded="true" />
-            <element signature="e#2291#2292#0" expanded="true" />
-            <element signature="e#2344#2345#0" expanded="true" />
           </folding>
         </state>
       </provider>

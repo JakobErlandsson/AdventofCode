@@ -18,7 +18,13 @@ public class Main {
         //dayEleven();
         //dayTwelve(FileHandler.readFile("12.txt"));
         //new DayThirteen();
-        new DayFourteen();
+        //new DayFourteen();
+        //new DayFifteen();
+        //new DaySixteen();
+        //new DaySeventeen();
+        //new DayEighteen();
+        //new DayNineteen();
+        new DayTwenty();
     }
 
 }
