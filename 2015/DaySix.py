@@ -6,6 +6,8 @@ for i in range(1000):
 
 input = get(6).split('\n')
 
+
+ans = 0
 for line in input:
     line = line.split(' ')
     end = [int(i) for i in line[-1].split(',')]

@@ -24,7 +24,6 @@ def nicev2(string):
             n_pairs[p].append(i)
         else: 
             n_pairs[p] = [i]
-    print(n_pairs)
     for k in n_pairs:
         v = n_pairs[k]
         if len(v) > 1 and v[0] != v[1]-1:
