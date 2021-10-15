@@ -7,7 +7,7 @@ def get(day):
         puzzle_input = f.read()
     else: 
         url = "https://adventofcode.com/2015/day/{}/input".format(day)
-        cookie = {"session": "53616c7465645f5f7d273718917e83269d10252ce74b4f041124c210943531da183eb2a000867bfcfb75bdaa09b31e9c"}
+        cookie = {"session": "53616c7465645f5f573763b18387bf4d84b81021908f1bde1bec63fc346829ea2e7701e510111f33974484b9ed9e250a"}
         res = requests.get(url, cookies=cookie)
         puzzle_input = res.text
         f = open("day{}.txt".format(day), "w")
